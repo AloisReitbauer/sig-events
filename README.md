@@ -2,12 +2,19 @@
 
 ## Quick links
 
-- [Meeting Information](#meetings)
-- [Members](#members)
-- [New Members](#new-members)
-- [Governance](#governance)
-- [Communication](#communication)
-- [Meetings](#meetings)
+- [CDF Events Special Interest Group](#cdf-events-special-interest-group)
+  - [Quick links](#quick-links)
+  - [Group Charter](#group-charter)
+    - [Introduction](#introduction)
+    - [Purpose](#purpose)
+    - [Outcome](#outcome)
+  - [History](#history)
+  - [What is an event?](#what-is-an-event)
+  - [Members](#members)
+  - [New Members](#new-members)
+  - [Communication](#communication)
+  - [Governance](#governance)
+  - [Meetings](#meetings)
 
 ## Group Charter
 
@@ -66,6 +73,7 @@ Current members:
 - Cameron Motevasselani ([@link108](https://github.com/link108)), [Armory](https://www.armory.io/)
 - Alois Reitbauer ([@aloisreitbauer](https://github.com/aloisreitbauer)), [Dynatrace](https://www.dynatrace.com/)
 - Fredrik Fristedt [@fredjn](https://github.com/fredjn), Axis Communications
+
 
 ## New Members
 
