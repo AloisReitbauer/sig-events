@@ -43,12 +43,10 @@ The group is working on a standardized event protocol that caters for technology
 
 The group aims to provide reference implementations such as event listeners and event senders on top of CloudEvents.
 
-## History
+### History
 
 This is group started as a work-stream within the CDF SIG Interoperability.
-
 The forming of the workstream was suggested on a [SIG Interoperability meeting](https://github.com/cdfoundation/sig-interoperability/blob/master/docs/meetings_2020.md#May-28-2020) and its first meeting was held on June 8th 2020.
-
 The SIG was formed in February 2021.
 
 ## What is an event?
@@ -113,10 +111,11 @@ Chairs and the TOC Sponsor of the SIG are
 
 ## Meetings
 
-SIG Events meets the 1st and 3rd Mondays of every month at 16:00UTC. (*See your timezone [here](https://time.is/1600_in_UTC)*).
+SIG Events meets bi-weekly on Mondays at 3pm UTC in the summer time and at 4pm UTC in winter time. (*See your timezone [here](https://time.is/3pm_in_UTC)*).
 
 - [Meeting agenda and minutes](./docs/meetings.md).
 - [Zoom Bridge](https://zoom.us/j/97660712600?pwd=Z3BqYTE5YzNsbEhmck16cjdZNEFIUT09).
 - [Zoom International dial-in numbers](https://zoom.us/zoomconference).
 - [CDF Public Calendar (UTC)](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC).
+- [Recorded meetings on Youtube](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RlxWAnAjxs8Azuz11XVhkC)
 - [Archived meeting notes (2020)](docs/meetings_2020.md).
